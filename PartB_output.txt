@@ -1,0 +1,2 @@
+PS C:\Users\himkar vashistha\Desktop\assignment_day_8_PM> python find_pairs.py
+Pairs: [(1, 5), (2, 4)]
