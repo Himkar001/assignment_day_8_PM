@@ -1,0 +1,7 @@
+PS C:\Users\himkar vashistha\Desktop\assignment_day_8_PM> python password_analyzer.py
+Enter password: Himkar@001
+Strength: 6/7 (Strong)
+Password accepted!
+Enter length for generated password: 8
+Generated Password: J_I_f9'>
+Generated Password Strength: Strong
