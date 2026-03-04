@@ -1,2 +1,12 @@
 PS C:\Users\himkar vashistha\Desktop\assignment_day_8_PM> python find_pairs.py
 Pairs: [(1, 5), (2, 4)]
+
+PS C:\Users\himkar vashistha\Desktop\assignment_day_8_PM> python prime_debug.py
+1 is Not Prime
+2 is Prime
+3 is Prime
+4 is Not Prime
+5 is Prime
+16 is Not Prime
+17 is Prime
+29 is Prime
