@@ -1,0 +1,11 @@
+PS C:\Users\himkar vashistha\Desktop\assignment_day_8_PM> python diamond_pattern.py
+Enter number of rows for upper half: 5
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
