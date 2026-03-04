@@ -1,0 +1,26 @@
+Enter transactions. Type 'done' to finish.
+
+Enter amount (or 'done'): 50000
+Type (credit/debit): credit
+⚠ High value transaction detected!
+
+Enter amount (or 'done'): 500
+Type (credit/debit): debit
+Enter amount (or 'done'): 15000
+Type (credit/debit): debit
+⚠ High value transaction detected!
+
+Enter amount (or 'done'): done
+
+Last 10 Transactions Chart
+**************************************************
+
+***************
+
+Transaction Summary
+Total transactions: 3
+Total credits: 50000.0
+Total debits: 15500.0
+Net balance: 34500.0
+Highest transaction: 50000.0
+Average amount: 21833.333333333332
